@@ -1,6 +1,6 @@
-import { Router } from 'express'
+// import { Router } from 'express'
 import React from 'react'
-import { Route, Switch } from 'react-router'
+import { Route, Switch } from 'react-router-dom'
 
 import Dashboard from './dashboard'
 import Main from './main'
